@@ -1,0 +1,6 @@
+pandas
+pandasql
+pymongo
+python-dotenv
+numpy
+matplotlib
